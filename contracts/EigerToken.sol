@@ -90,4 +90,5 @@ contract EigerToken is ERC20 {
     );
 }
 
+// Sepolia Testnet
 // contract address: 0xEa7C0cB937B95Be1C48c58F24792d2A7DFb7469C
